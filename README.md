@@ -12,7 +12,7 @@
 **安装到 AI 助手**
 
 ```bash
-npx skills add https://github.com/keweny416-debug/zhongzhi-network-dabian --skill zhongzhi-network-dabian
+npx skills add keweny416-debug/zhongzhi-network-dabian
 ```
 
 安装后，在对话中直接报教材知识点编号或名称即可触发。
